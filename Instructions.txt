@@ -1,0 +1,12 @@
+I have tried to complete the task as soon as possible.
+
+Content:
+1 .py file (Blackcoffer Task.py)
+1 .ipynb file(Blackcoffer Task.ipynb)
+1 pdf of .ipynb file after sucsessful run.(To see output)(Blackcoffer Task.pdf)
+1 folder contains all extracted data.(output_files)
+1 input .csv file (input.xlsx.csv)
+1 Output .xlsx file (Output.xlsx)
+
+
+Recommend you to go through .pdf file. It will be easier to understand.
